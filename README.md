@@ -4,15 +4,16 @@ Financial analysis tool
 
 ## Description 
 
-This work is designed to showcase my profile as a developer. The motivation is to for visibility as my skillset in web development increases. This portfolio build would allow for subsequent updates as more web development tools are harnessed.
+This work involved creating code for analyzing the financial records of a company. The design task motivation is for creating interactive tool with javascript for financial analysis.
 
 ### Links
 
 #### Web address : 
-https://btork2022.github.io/Bootstrap-Portfolio/
+https://btork2022.github.io/Console-Finances/
 
 #### Github address :
-https://github.com/btork2022/Bootstrap-Portfolio
+https://github.com/btork2022/Console-Finances
+
 
 
 
